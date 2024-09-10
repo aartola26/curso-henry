@@ -1,2 +1,1 @@
-# curso-henry
-repositorio de prueba del modulo 2
+Esta es una prueba de crear un repositorio y clonarlo desde github al escritorio local
